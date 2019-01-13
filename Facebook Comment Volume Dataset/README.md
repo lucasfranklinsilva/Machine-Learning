@@ -8,12 +8,11 @@ Link para o data set: https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+V
 
 ### Precisão: (Validação Cruzada)
 
-Árvore de Decisão: 60,23%
+Árvore de Decisão: 51%
 
-Bayesiano : 60,18%
+Bayesiano:  30%
 
-SVM: 59,28%
-
+Floresta Randomica: 77%
 
 # [EN] Facebook Comment Volume  
 
@@ -24,9 +23,8 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
 
 ### Precision: (Cross Validation)
 
-Decision Tree: 60,23%
+Decision Tree: 51%
 
-Bayesian : 60,18%
+Bayesian : 30%
 
-SVM: 59,28%
-
+Random Forest: 77%
