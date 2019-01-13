@@ -6,9 +6,12 @@ O conjunto de dados representa 10 anos (1999-2008) de atendimento clínico em 13
 Link para o dataset: https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008
 
 ### Precisão: (Validação Cruzada)
-Árvore de Decisão: 51%
-Bayesiano:  30%
-Floresta Randomica: 77%
+
+Árvore de Decisão: 60,23%
+
+Bayesiano : 60,18%
+
+SVM: 59,28%
 
 # [EN] Diabetes 130-US hospitals for years 1999-2008 Data Set 
 
@@ -18,6 +21,9 @@ The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals
 Dataset: https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008
 
 ### Precision: (Cross Validation)
-Decision Tree: 51%
-Bayesian : 30%
-Random Forest: 77%
+
+Decision Tree: 60,23%
+
+Bayesian : 60,18%
+
+SVM: 59,28%
