@@ -7,8 +7,11 @@ Os dados consistem em padrões de comentários de usuários, sobre as postagens 
 Link para o data set: https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
 
 ### Precisão: (Validação Cruzada)
+
 Árvore de Decisão: 60,23%
+
 Bayesiano : 60,18%
+
 SVM: 59,28%
 
 
@@ -20,7 +23,10 @@ The data consists in user comment patters, over the posts on Facebook Pages.
 Dataset: https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
 
 ### Precision: (Cross Validation)
+
 Decision Tree: 60,23%
+
 Bayesian : 60,18%
+
 SVM: 59,28%
 
